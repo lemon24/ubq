@@ -1,0 +1,25 @@
+# ubq config file (~/.ubq)
+
+g   url firefox "http://www.google.ro/#q=____"
+go  url firefox "http://www.google.com/search?q=____&btnI=Im+Feeling+Lucky"
+
+wp  url firefox "http://en.wikipedia.org/w/index.php?title=Special:Search&search=____"
+w   url firefox "http://en.wikipedia.org/w/index.php?title=Special:Search&search=____"
+wk  url firefox "http://en.wiktionary.org/w/index.php?title=Special:Search&search=____"
+wa  url firefox "http://www.wolframalpha.com/input/?i=____"
+ud  url firefox "http://www.urbandictionary.com/define.php?term=____"
+say url firefox "http://www.howjsay.com/index.php?word=____&submit=Submit"
+rt  url firefox "http://www.rottentomatoes.com/search/?search=____&sitesearch=rt"
+
+yt  url firefox "http://www.youtube.com/results?search_query=____"
+ly  url firefox "http://www.songmeanings.net/query/?query=____&type=all"
+
+man url firefox "http://www.die.net/search/?q=____&sa=Search&ie=ISO-8859-1&cx=partner-pub-5823754184406795%3A54htp1rtx5u&cof=FORID%3A9&siteurl=linux.die.net%2Fman%2F"
+
+ff  raw firefox "____"
+cr  raw chromium-browser "____"
+ci  raw chromium-browser --incognito "____"
+
+p   nop amarok -t
+n   nop amarok -f
+

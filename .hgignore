@@ -1,7 +1,0 @@
-syntax: glob
-
-__pycache__
-docs/_build
-dist
-ubq.egg-info
-
